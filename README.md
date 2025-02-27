@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on Natural Processing Language with Python
 - 🌱 Currently learning Python
 - ✉️ Contact: beckmannisadora@gmail.com
+- 📜 Academic Curriculum: https://lattes.cnpq.br/0353047662151335
+- 👩🏻‍💻 Applied Computing Research Group: http://gca.unijui.edu.br/
 
     <a href="https://github.com/isabeckmann/github-readme-stats">
         <img img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=isabeckmann&show_icons=true&theme=tokyonight&rank_icon=github"/>
